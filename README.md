@@ -1,6 +1,3 @@
-
-# Learning to collect bananas
-
 ### Project Overview
 
 This my final project, in this project I trained an agent to pick up yellow bananas that are scattered throughout a square world. The agent
